@@ -1,4 +1,5 @@
 # 🚀GMSSH Apps Center
+<p align="center"> <a href="#README.en.md"English<<a href="#readme-en">English</a> | <a href="#license-terms">开源声明 (License)</a> | <a href="https://www.gm.cn/developer-center">开发者中心 (Dev Center)</a> </p>
 
 [**官方原生应用**] · [**个人公益扩展**] · [**运维增强工具**]
 
