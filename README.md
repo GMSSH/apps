@@ -1,6 +1,4 @@
----
-
-# 🚀 GMSSH Apps Center
+# 🚀GMSSH Apps Center
 
 [**官方原生应用**] · [**个人公益扩展**] · [**运维增强工具**]
 
